@@ -8,8 +8,8 @@
 </head>
 <body>
         <div class="container">
-        <h1> Hi, I'm Olga!!</h1>
-         <span> <img src="images/DSC_0460.JPG" alt="profile-pic"></span>
+        <h1> Hi, I'm Olga !!</h1>
+         <span> <img src="" alt="profile-pic"></span>
     </div>
 </body>
 </html>
