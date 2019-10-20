@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lobster|Nosifer" rel="stylesheet">
 </head>
 <body>
-        <div class="container">
+        <div class="img wight:300px; height:400px">
         <h1> Hi, I'm Olga !!</h1>
          <span> <img src="DSC_0460.JPG" alt="profile-pic"></span>
     </div>
